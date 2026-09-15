@@ -465,22 +465,7 @@ The implementation initializes NumPy and PyTorch using seed `42`. Evaluation run
 
 Complete numerical reproducibility can still depend on the hardware, CUDA version, and PyTorch operations used.
 
----
-
-## Methodological References
-
-SF-GAN builds upon the following methodological foundations:
-
-1. Sohn, K., Lee, H., and Yan, X. “Learning Structured Output Representation using Deep Conditional Generative Models.” *Advances in Neural Information Processing Systems*, 2015. [Paper](https://proceedings.neurips.cc/paper/2015/hash/8d55a249e6baa5c06772297520da2051-Abstract.html)
-
-2. Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., and Courville, A. “Improved Training of Wasserstein GANs.” *Advances in Neural Information Processing Systems*, 2017. [Paper](https://proceedings.neurips.cc/paper/2017/hash/892c3b1c6dccd52936e27cbd0ff683d6-Abstract.html)
-
-3. Bun, M. and Steinke, T. “Concentrated Differential Privacy: Simplifications, Extensions, and Lower Bounds.” *Theory of Cryptography Conference*, 2016. [Paper](https://doi.org/10.1007/978-3-662-53641-4_24)
-
-4. Louppe, G., Kagan, M., and Cranmer, K. “Learning to Pivot with Adversarial Networks.” *Advances in Neural Information Processing Systems*, 2017. [Paper](https://proceedings.neurips.cc/paper/2017/hash/48ab2f9b45957ab574cf005eb8a76760-Abstract.html)
-
----
-
+--
 
 ## Acknowledgements
 
