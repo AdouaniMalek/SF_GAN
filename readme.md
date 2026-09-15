@@ -466,19 +466,11 @@ The implementation initializes NumPy and PyTorch using seed `42`. Evaluation run
 
 
 ## Citation (to appear)
-```bibtex
-@inproceedings{adouani:hal-05741369,
-  TITLE = {{Towards Fair and Private Synthetic Health Data:
-            A Hybrid Generative Framework under
-            Zero-Concentrated Differential Privacy}},
-  AUTHOR = {Adouani, Malek and Ben Azzouna, Nadia and
-            Zeitouni, Karine and Chelly Dagdia, Zaineb},
-  BOOKTITLE = {{International Conference on Neural Information Processing}},
-  ADDRESS = {Melbourne, Australia},
-  YEAR = {2026},
-  MONTH = nov,
-}
-```
+Malek Adouani, Nadia Ben Azzouna, Karine Zeitouni, Zaineb Chelly Dagdia. Towards Fair and Private Synthetic Health Data: A Hybrid Generative Framework under Zero-Concentrated Differential Privacy. International Conference on Neural Information Processing, Nov 2026, Melbourne, Australia. (to appear)
+
+The open HAL publication summarizing this work is openly available on:
+📄 [Read the publication on HAL](insert link when ready)
+
 ## Acknowledgements
 
 This work is supported by the European Union’s Horizon Europe Programme under the Marie Skłodowska-Curie Actions, Grant No. 101236749 (https://thunder-msca-se.univ-lille.fr/), the France 2030 programme (ANR-18-RHUS-0004; ANR-23-IAHU-0004), the iRECORDS project (JTC_2021), and the French Programme Investissement d’Avenir (I-SITE ULNE ANR-16-IDEX-0004; ARCHIE-INFINITE n°I-KUL-22-005), as well as Inserm and the French Ministry of Health (MESSIDORE 2023, IReSP AAP-2023-MSDR-341423).
