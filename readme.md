@@ -469,7 +469,7 @@ The implementation initializes NumPy and PyTorch using seed `42`. Evaluation run
 *Malek Adouani, Nadia Ben Azzouna, Karine Zeitouni, Zaineb Chelly Dagdia. Towards Fair and Private Synthetic Health Data: A Hybrid Generative Framework under Zero-Concentrated Differential Privacy. International Conference on Neural Information Processing (ICONIP 2026), Nov 2026, Melbourne, Australia. (to appear)*
 
 The open HAL publication summarizing this work is openly available on:
-📄 [Read the publication on HAL](insert link when ready)
+📄 [Read the publication on HAL]
 
 ## Acknowledgements
 
