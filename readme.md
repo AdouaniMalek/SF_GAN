@@ -463,9 +463,9 @@ For reproducible experiments:
 
 The implementation initializes NumPy and PyTorch using seed `42`. Evaluation runs subsequently use consecutive seeds beginning at `0`.
 
-Complete numerical reproducibility can still depend on the hardware, CUDA version, and PyTorch operations used.
 
-## Citation
+
+## Citation (to appear)
 ```bibtex
 @inproceedings{adouani:hal-05741369,
   TITLE = {{Towards Fair and Private Synthetic Health Data:
@@ -477,8 +477,6 @@ Complete numerical reproducibility can still depend on the hardware, CUDA versio
   ADDRESS = {Melbourne, Australia},
   YEAR = {2026},
   MONTH = nov,
-  URL = {https://hal.science/hal-05741369},
-  HAL_ID = {hal-05741369}
 }
 ```
 ## Acknowledgements
